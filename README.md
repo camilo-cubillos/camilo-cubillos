@@ -72,4 +72,5 @@ Aplicación de consola desarrollada en Java para gestionar reservas de una peluq
 
 ## Contacto
 
--GitHub: [camilo-cubillos](https://github.com/camilo-cubillos/camilo-cubillos)
+- LinkedIn: [Camilo Cubillos](www.linkedin.com/in/camilo-esteban-cubillos-morales-1a710928b)
+- GitHub: [camilo-cubillos](https://github.com/camilo-cubillos/camilo-cubillos)
