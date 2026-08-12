@@ -46,3 +46,13 @@ Actualmente continúo fortaleciendo mis conocimientos en Java, bases de datos, d
 - Desarrollo Backend con Java
 - Arquitectura y desarrollo de APIs
 - Automatización de procesos
+
+## Proyectos destacados
+
+### Gestor de Reservas para Peluquería
+
+Aplicación de consola desarrollada en Java para gestionar reservas de una peluquería. Permite agendar citas, consultar y cancelar reservas, generar un reporte diario y validar los datos ingresados.
+
+**Tecnologías:** Java, Programación Orientada a Objetos.
+
+[Ver repositorio](https://github.com/camilo-cubillos/gestor-reservas-peluqueria)
