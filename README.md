@@ -49,6 +49,18 @@ Actualmente continúo fortaleciendo mis conocimientos en Java, bases de datos, d
 
 ## Proyectos destacados
 
+### Juniors
+Proyecto colaborativo enfocado en el desarrollo de una plataforma para jóvenes profesionales, orientada a la formación y el acceso a oportunidades laborales.
+
+**Rol:** Director de TI (CTO) y desarrollo backend.
+
+**Aportes:** Diseño y desarrollo de la API, implementación de autenticación, integración de bases de datos, despliegue y coordinación técnica del proyecto.
+
+**Tecnologías:** Node.js, Express.js, PostgreSQL, MongoDB, Supabase, JWT, Git y Render.
+
+[Ver proyecto](https://github.com/orgs/we-are-juniors/repositories)
+
+
 ### Gestor de Reservas para Peluquería
 
 Aplicación de consola desarrollada en Java para gestionar reservas de una peluquería. Permite agendar citas, consultar y cancelar reservas, generar un reporte diario y validar los datos ingresados.
@@ -56,3 +68,8 @@ Aplicación de consola desarrollada en Java para gestionar reservas de una peluq
 **Tecnologías:** Java, Programación Orientada a Objetos.
 
 [Ver repositorio](https://github.com/camilo-cubillos/gestor-reservas-peluqueria)
+
+
+## Contacto
+
+-GitHub: [camilo-cubillos](https://github.com/camilo-cubillos/camilo-cubillos)
